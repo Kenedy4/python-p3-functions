@@ -15,4 +15,5 @@ def add(num1, num2):
 add(45,55)
 
 def halve(number):
-    
+    return number / 2
+halve(100)
